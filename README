@@ -1,1 +1,4 @@
 Hola Mundo 
+Numeros Pares:
+let x= [3,6..3000] // se le asigna los primeros 1000 valores multiplos de 3
+filter even x // pares de los numeros multiplos de 3 hasta el 3000
